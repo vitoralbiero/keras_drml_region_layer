@@ -1,10 +1,10 @@
 # DRML Region Layer on Keras
-DRML Region layer implementation on Keras 
+DRML Region layer implementation on Keras. 
 
 Example of how to use this is inside `example.py`.
 
 This implementation was used in the paper AUMPNet (http://ieeexplore.ieee.org/document/7961834/), 
-which followed the idea from DRML(http://ieeexplore.ieee.org/document/7780738/).
+which followed the idea from DRML (http://ieeexplore.ieee.org/document/7780738/).
 
 If you use this please cite the papers.
 
